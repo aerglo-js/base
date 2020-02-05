@@ -1,0 +1,26 @@
+{
+  "name": "{{NAME}}",
+  "version": "1.0.0",
+  "description": "{{DESCRIPTION}}",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerglo-js/base.git"
+  },
+  "keywords": [
+    "Aerglo",
+    "Base Template"
+  ],
+  "author": "Zane C. Milakovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerglo-js/base/issues"
+  },
+  "homepage": "https://github.com/aerglo-js/base#readme",
+  "dependencies": {
+    "@aerglo-js/aerglo": "0.0.1"
+  }
+}
