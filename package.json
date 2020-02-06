@@ -4,7 +4,8 @@
   "description": "{{description}}",
   "main": "dist/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "aerglo build"
   },
   "repository": {
     "type": "git",
