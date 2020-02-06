@@ -1,9 +1,9 @@
 {
-  "name": "{{NAME}}",
+  "name": "{{name}}",
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
-  "alias": ["{{DOMAIN}}", "{{WWWDOMAIN}}"],
+  "alias": ["{{domain}}"],
   "github": {
     "autoAlias": false
   },

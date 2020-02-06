@@ -1,4 +1,4 @@
-	name: {{NAME}}
-	description: {{DESCRIPTION}}
-	domain: {{DOMAIN}}
-	target: {{TARGET}}
+	name: {{name}}
+	description: {{description}}
+  domain: {{domain}}
+	target: {{target}}

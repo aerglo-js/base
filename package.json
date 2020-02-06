@@ -1,7 +1,7 @@
 {
-  "name": "{{NAME}}",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "{{DESCRIPTION}}",
+  "description": "{{description}}",
   "main": "dist/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
