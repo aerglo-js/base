@@ -1,4 +1,23 @@
-	name: {{name}}
-	description: {{description}}
-  domain: {{domain}}
-	target: {{target}}
+name: {{name}}
+description: {{description}}
+domain: {{domain}}
+target: {{target}}
+
+inputs:
+	components: /components
+	functions: /endpoints
+	pages: /pages
+	partials: /partials
+	static: /static
+
+outputs:
+	lambda: /api
+	dist: /dist
+	404: 404.html
+	500: 500.html
+	offline: offline.html
+
+partials:
+	prefix: partial-
+
+
